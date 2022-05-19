@@ -12,7 +12,7 @@ Fatma Timur - fatmatimur34. ft@gmail.com
 
 Furkan Elmas- furkanelmas321@gmail.com
 
-
+\n
 
 Oynanış:
 
@@ -26,7 +26,7 @@ Ses Ayarı- Q
 
 El Feneri Aç/Kapa - F
 
-
+\n
 
 Hikaye Özeti:
 
