@@ -1,7 +1,7 @@
 # Bogazici Game Jam-2022
  Boğaziçi Game Jam 2022 etkinliği için 48 saat içerisinde geliştirdiğimiz oyun.
  
-
+#
 Dot Games- Geliştiriciler:
 
 Ahmet Yalçınkaya - ykayaaahmet@gmail.com
@@ -12,7 +12,7 @@ Fatma Timur - fatmatimur34. ft@gmail.com
 
 Furkan Elmas- furkanelmas321@gmail.com
 
-\n
+#
 
 Oynanış:
 
@@ -26,7 +26,7 @@ Ses Ayarı- Q
 
 El Feneri Aç/Kapa - F
 
-\n
+#
 
 Hikaye Özeti:
 
