@@ -8,7 +8,7 @@ Ahmet Yalçınkaya - ykayaaahmet@gmail.com
 
 Ali Ata İnce - aliataince@outlook.com
 
-Fatma Timur - fatmatimur34. ft@gmail.com
+Fatma Timur - fatmatimur34.ft@gmail.com
 
 Furkan Elmas- furkanelmas321@gmail.com
 
