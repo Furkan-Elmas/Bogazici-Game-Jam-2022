@@ -1,6 +1,7 @@
 # Bogazici Game Jam-2022
  Boğaziçi Game Jam 2022 etkinliği için 48 saat içerisinde geliştirdiğimiz oyun.
- Oyun Unity3D - 2020.3.33f1 - versiyonu ile yapılmıştır.
+ 
+ Unity3D - 2020.3.33f1 - versiyonu ile yapılmıştır.
  
 #
 Dot Games- Geliştiriciler:
